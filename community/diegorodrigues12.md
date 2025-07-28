@@ -1,5 +1,6 @@
 ## Olá meu nome é Diego!🦁
-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/diegorodriguesoli)
+- <p align="center"> <a href="https://www.linkedin.com/in/kawan-da-silva-brito-489146182/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" alt="LinkedIn" title="LinkedIn - Kawan da Silva Brito" /> </a> </p>
+📧 E-mail: diegorodriguesoli9@gmail.com
 ---
 
 ### 🤖 Linguagens e Tecnologias
